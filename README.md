@@ -1,6 +1,6 @@
 # Dataset-for-Trending-Android-Games
 1.[Catalogue of Categories of Android Game](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/List%20of%20Categories%20of%20Android%20Games%20in%20Google%20Play%20Store.csv)
-2. Catalogue of Trending Android Game
+- 2. Catalogue of Trending Android Game
 .  [Top Free Android Games](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/Top%20Free%20games.csv)
 .  [Top Paid Android Games](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/Top%20Paid%20games.csv)
 .  [Top Grossing Android Games](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/Top%20grossing%20games.csv)
