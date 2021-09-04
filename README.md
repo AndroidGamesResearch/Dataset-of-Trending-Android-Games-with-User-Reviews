@@ -5,8 +5,8 @@
 - * [Top Grossing Android Games](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/Top%20grossing%20games.csv)
 - [List of All Negative Notes](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/List%20of%20Negative%20Notes.csv)
 - [List of All Positive Notes](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/List%20of%20Positive%20Notes.csv)
-- [Catalogue of Best Trends](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/Catalogue%20of%20Bests.csv)
-- [Catalogue of Flaws](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/Catalogue%20of%20Flaws.csv)
+- [List of All Suggestions Notes](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/List%20of%20Suggestions%20Notes.csv)
+
 
 # Related Publication 
 - This is later to be filled 
