@@ -1,7 +1,7 @@
 # Dataset-for-Trending-Android-Games
 * Catalogue of Trending Android Game
- * [Top Free Android Games](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/Top%20Free%20games.csv)
- * [Top Paid Android Games](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/Top%20Paid%20games.csv)
+- * [Top Free Android Games](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/Top%20Free%20games.csv)
+- * [Top Paid Android Games](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/Top%20Paid%20games.csv)
  * [Top Grossing Android Games](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/Top%20grossing%20games.csv)
 - [List of All Negative Notes](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/Raw%20List%20of%20Negative%20Comments.csv)
 - [List of All Positive Notes](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/Raw%20List%20of%20Positive%20Comments.csv)
