@@ -1,4 +1,5 @@
 # Dataset-for-Trending-Android-Games
+## Table of Contents
 1. Catalogue of Trending Android Games
 .  [Top Free Android Games](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/Top%20Free%20games.csv)
 .  [Top Paid Android Games](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/Top%20Paid%20games.csv)
