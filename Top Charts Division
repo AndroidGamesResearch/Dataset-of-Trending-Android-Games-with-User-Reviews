@@ -1,5 +1,18 @@
-| Column 1 Header | Column 2 Header | Column 3 Header |
-| --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+S# ,Category Name 
+1,Action
+2,Adventure 
+3,Arcade
+4,Board
+5,Card
+6,Casino
+7,Casual 
+8,Educational
+9,Music
+10,Puzzle
+11,Racing
+12,Role Playing
+13,Simulation
+14,Sports
+15,Strategy 
+16,Trivia 
+17,Word
