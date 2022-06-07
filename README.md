@@ -3,19 +3,14 @@
 This is a Dataset of Top Trending Android Games at Google Play Store with User Reviews and other related information like ratings, users and prices etc.
 
 ## Table of Contents
-1. Catalogue of Trending Android Games
-.  [Top Free Android Games](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/Top%20Free%20games.csv)
-.  [Top Paid Android Games](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/Top%20Paid%20games.csv)
-.  [Top Grossing Android Games](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/Top%20grossing%20games.csv)
-1. [Word Cloud of Negative Notes](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/List%20of%20Negative%20Notes.csv)
-1. [Word Cloud of Positive Notes](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/List%20of%20Positive%20Notes.csv)
-1. [Word Cloud of Suggestions Notes](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/List%20of%20Suggestions%20Notes.csv)
-1. [List of Organized Notes : Negative, Positive and Suggestions of Top Free Android Games](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/Organized%20List%20of%20Top%20Free%20Notes.csv)
-1. [Catalogue of Categories of Android Game](https://github.com/AndroidGamesResearch/Dataset-for-Trending-Android-Games/blob/main/List%20of%20Categories%20of%20Android%20Games%20in%20Google%20Play%20Store.csv)
-
+1. [Catalogues of Top Trending Android Games] https://github.com/AndroidGamesResearch/Dataset-of-Trending-Android-Games-with-User-Reviews/tree/main/Dataset%20Jan%202022/Catalogues
+2. [Lists of Top Trending Android Games according to Categorization] https://github.com/AndroidGamesResearch/Dataset-of-Trending-Android-Games-with-User-Reviews/tree/main/Dataset%20Jan%202022/Top%20Trending%20Android%20Games%20according%20to%20Categorization 
+3. [Apps Information] https://github.com/AndroidGamesResearch/Dataset-of-Trending-Android-Games-with-User-Reviews/tree/main/Dataset%20Jan%202022/App%20Info
+4. [User's Reviews] https://github.com/AndroidGamesResearch/Dataset-of-Trending-Android-Games-with-User-Reviews/tree/main/Dataset%20Jan%202022/Reviews
+5. [Download Dataset] https://github.com/AndroidGamesResearch/Dataset-of-Trending-Android-Games-with-User-Reviews/tree/main/Dataset%20Jan%202022/Download
+6. [Raw Superset of all records in line] https://github.com/AndroidGamesResearch/Dataset-of-Trending-Android-Games-with-User-Reviews/blob/main/Dataset%20Jan%202022/Raw_Superset_of_allRecords.csv 
 
 # Related Publication 
 - This is later to be filled 
 
 # Context 
-The study tries to introduce a new Dataset of most important Revenue Drivers in building Android Games. The source of study is top rated, above four stars, Android Games in Google Play store. This dataset is an open-source repository and easily available to use and populate as per requirement. The information contained in the Dataset consists of: 1) detailed documents of success and failure report, raw as well as managed lists through user reviews and notes, 2) List of positive Revenue Drivers features, 3) List of negative Revenue Drivers features, 4) A separate word cloud of all positive features, 5) A separate word cloud of all negative features and 6) a separate word cloud of all suggested features. The main consequences of this dataset are; 1) This dataset provides collective and comprehensive information in sighting user perspective on top Android games, 2) This dataset  facilitates in knowing that how trending apps are gaining and attracting customers?, 3) What are their strategies, 4) How weaknesses are handled, 5) Opportunities for long-term revenue from Android games?, and 6) A great source of information for both academia as well as practitioners, small and new entrepreneurs to large-scale organization. For the continual legitimacy of the Dataset in future, we plan to keep the data up to date with the most recent Android Game Development. 
