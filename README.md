@@ -3,7 +3,8 @@
 This is a Dataset of Top Trending Android Games at Google Play Store with User Reviews and other related information like ratings, users and prices etc.
 
 # Statistical Visualization of Dataset
-![](Images/AndroidGamesinParticularGenre.png)
+![ ](Images/AndroidGamesinParticularGenre.png)
+
 
 ## Table of Contents
 1. [Apps Information](https://github.com/AndroidGamesResearch/Dataset-of-Trending-Android-Games-with-User-Reviews/tree/main/Dataset%20Jan%202022/App%20Info)
