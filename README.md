@@ -1,5 +1,5 @@
 # Dataset-of-Trending-Android-Games-with-UserReviews
-#### About Dataset
+## 📽️ About Dataset
 This is a Dataset of Top Trending Android Games at Google Play Store with User Reviews and other related information like ratings, users and prices etc.
  
 ## 🔍 Dataset Stats: 
