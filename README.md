@@ -3,16 +3,9 @@
 This is a Dataset of Top Trending Android Games at Google Play Store with User Reviews and other related information like ratings, users and prices etc.
  
 ## 🔍 Dataset Stats: 
-> **4** <sub>*Topics*</sub> &nbsp;**12** <sub>*Total Tables*</sub> &nbsp;**1** <sub>*Superset*</sub> &nbsp;**8423** <sub>*Reviews*</sub> &nbsp;**245** <sub>*Total Top Trending Games*</sub> &nbsp;**96** <sub>*Top Trending Android Free Games*</sub> &nbsp;**97** <sub>*Top Trending Android Grossing Games*</sub> &nbsp;**52** <sub>*Top Trending Android Paid Games*</sub> &nbsp;**10** <sub>*Columns*</sub> &nbsp;
+> **12** <sub>*Total Tables*</sub> &nbsp;**1** <sub>*Superset*</sub> &nbsp;**8423** <sub>*Reviews*</sub> &nbsp;**245** <sub>*Total Top Trending Games*</sub> &nbsp;**96** <sub>*Top Trending Android Free Games*</sub> &nbsp;**97** <sub>*Top Trending Android Grossing Games*</sub> &nbsp;**52** <sub>*Top Trending Android Paid Games*</sub> &nbsp;**10** <sub>*Columns*</sub> &nbsp;
 
-🚧 **Topics Overview**
-
-<sup>*1. GameInfo : Top Trending Android Games on Google Play Store*</sup><br />
-<sup>*2. Catalagues : Collections of types of Android Games on Google Play Store*</sup><br />
-<sup>*3. Lists of Top Trending Android Games according to each Category*</sup><br />
-<sup>*4. User Reviews of Top Trending Android Games*</sup><br />
-
-🚥 **Tables Overview**
+🚧 **Tables Overview**
 
 <sup>*1. GameInfo: Top Free Android Games **~** **2265**<sub>*rows** **x** **10**<sub>*columns*</sub></sup><br />
 <sup>*2. GameInfo: Top Grossing Android Games **~** **3960**<sub>*rows** **x** **10**<sub>*columns*</sub></sup><br />
