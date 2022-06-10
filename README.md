@@ -18,7 +18,7 @@ This is a Dataset of Top Trending Android Games at Google Play Store with User R
 <sup>*2. GameInfo: Top Grossing Android Games **~** **3960**<sub>*rows** **x** **10**<sub>*columns*</sub></sup><br />
 <sup>*3. GameInfo: Top Paid Android Games **~** **2198**<sub>*rows** **x** **10**<sub>*columns*</sub></sup><br />
   
-<sup>*4. Catalogue1 : Android Games Genres **~** **17**<sub>*rows** **x** **2**<sub>*columns*</sub></sup><br />&nbsp; <img src='Images/1.png' height = '280' width='300'>
+<sup>*4. Catalogue1 : Android Games Genres **~** **17**<sub>*rows** **x** **2**<sub>*columns*</sub></sup><br />&nbsp;<img src='Images/1.png' height = '280'width='300'>
 <sup>*5. Catalogue2 : Android Games Top Charts **~** **3**<sub>*rows** **x** **2**<sub>*columns*</sub></sup><br /> <img src='Images/2.png' height = '350' width='350'>
   
 <sup>*6. List1 : Top Free Android Games **~** **96**<sub>*rows** **x** **7**<sub>*columns*</sub></sup><br />  <img src='Images/3.png' height = '250' width='450'>
