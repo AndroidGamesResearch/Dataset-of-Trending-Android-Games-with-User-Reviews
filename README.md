@@ -19,12 +19,13 @@ This is a Dataset of Top Trending Android Games at Google Play Store with User R
 <sup>*10. Reviews2 : Top Grossing Android Games **~** **3960**<sub>*rows** **x** **8**<sub>*columns*</sub></sup><br /> 
 <sup>*11. Reviews3 : Top Paid Android Games **~** **2198**<sub>*rows** **x** **8**<sub>*columns*</sub></sup><br /> 
 <sup>*12. Superset **~** **8423**<sub>*rows** **x** **10**<sub>*columns*</sub></sup><br /> 
-
+ 
+<img src='Images/5.png' height = '300' width='900'>
 <img src='Images/1.png' height = '280' width='550'>
 <img src='Images/2.png' height = '350' width='350'>
 <img src='Images/3.png' height = '250' width='450'>
 <img src='Images/4.png' height = '320' width='450'>
-<img src='Images/5.png' height = '300' width='900'>
+
 
 
 ## Table of Contents
