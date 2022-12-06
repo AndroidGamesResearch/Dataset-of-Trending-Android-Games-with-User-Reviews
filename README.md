@@ -3,7 +3,7 @@
 This is a Dataset of Top Trending Android Games at Google Play Store with User Reviews and other related information like ratings, users and prices etc.
  
 ## 🔍 Dataset Stats: 
-> **12** <sub>*Total Tables*</sub> &nbsp;**1** <sub>*Superset*</sub> &nbsp;**8423** <sub>*Reviews*</sub> &nbsp;**245** <sub>*Total Top Trending Games*</sub> &nbsp;**96** <sub>*Top Trending Android Free Games*</sub> &nbsp;**97** <sub>*Top Trending Android Grossing Games*</sub> &nbsp;**52** <sub>*Top Trending Android Paid Games*</sub> &nbsp;**10** <sub>*Columns*</sub> &nbsp;
+> **245** <sub>*Total Top Trending Games*</sub> &nbsp;**96** <sub>*Top Trending Android Free Games*</sub> &nbsp;**97** <sub>*Top Trending Android Grossing Games*</sub> &nbsp;**52** <sub>*Top Trending Android Paid Games*</sub> &nbsp; **8423** <sub>*Reviews*</sub> &nbsp; **12** <sub>*Total Tables*</sub> &nbsp;**1** <sub>*Superset*</sub> &nbsp; &nbsp;**10** <sub>*Columns*</sub>
 
 🚧 **Tables Overview**
 
