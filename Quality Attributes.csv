@@ -1,0 +1,15 @@
+Attribute,Def_feature_1,Def_feature_2,Def_feature_3
+Compatibility,Platform independence,Hardware independence,Operating System independence
+Correctness,Number of defects,User requirements,System requirements
+Compliance,Customer Support,User Feedback,Response Time
+Efficiency,Resource usage,Memory usage,Device usage
+Functionality,Service,Malfunction,Performance
+Flexibility,Customizability,Configurability,Extensibility
+Interoperability,Protocol compatibility,Data format compatibility,API compatibility
+Maintainability,Code readability,Modularity,Comment density
+Portability,Audio,Graphics ,Video
+Reliability,MTTF (Mean Time to Failure),MTTR (Mean Time to Repair),Failure rate
+Security,Encryption strength,Authentication methods,Access control
+Supportability,Accessibility,User Assisstance,Troubleshooting support
+Testability,Test coverage,Test case count,Test automation
+Usability,User satisfaction,Learnability,Ease of Use
